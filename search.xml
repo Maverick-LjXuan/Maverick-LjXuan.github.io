@@ -4,7 +4,8 @@
     <title>RE:从零开始的生活</title>
     <url>/2020/03/15/my-first-blog/</url>
     <content><![CDATA[<h2 id="开博声明"><a href="#开博声明" class="headerlink" title="开博声明"></a>开博声明</h2><a id="more"></a>
-<p>忙了半天总算是把博客简单地搭建起来了，比当时搞虚拟机还折腾。一个人摸索好麻烦。虽然比较简陋，相信几年后就会逐渐丰富起来的。<br>从某种意义上来说，我的生活在两个月前便停滞了。家庭发生了剧变，在家人朋友面前我表现得都很正常，该打球打球，该吃饭吃饭，该学习学习…但我知道这才是我不正常的地方。这两个月里我逐渐想起了许多被扔在角落的事情还有诸多我之前埋下的伏笔，原来这些事情不是忘记了，而是一时想不起来了……<br>……总之，颓废了两个月（或者说半年？），开始害怕变得越来越普通的自己，我想找一个可以督促自己的方式。正好有人给我介绍了下hexo，我想着搭一个自己的博客，记录自己接下来的学习与生活。我讨厌大学毕业前看到这篇博客凄惨荒废的模样，想想三年后或者变为社畜前，看到这个小窝逐渐丰满的样子，我会很高兴的。<br>如果我的过去不能给予我充分的动力，那就从未来借一点期待吧！</p>
+<p>忙了半天总算是把博客简单地搭建起来了，比当时搞虚拟机还折腾。<br>一个人摸索好麻烦。虽然比较简陋，相信几年后就会逐渐丰富起来的。<br>从某种意义上来说，我的生活在两个月前便停滞了。家庭发生了剧变，在家人朋友面前我表现得都很正常，该打球打球，该吃饭吃饭，该学习学习…但我知道这才是不正常的。<br>这两个月里我逐渐想起了许多被扔在角落的事情还有诸多我之前埋下的伏笔，原来这些事情不是忘记了，而是一时想不起来了……<br>……总之，颓废了两个月（或者说半年？），开始害怕变得越来越普通的自己，我想找一个可以督促自己的方式。正好有人给我介绍了下hexo，我想着搭一个自己的博客，记录自己接下来的学习与生活。我讨厌大学毕业前看到这篇博客凄惨荒废的模样，想想三年后或者变为社畜前，看到这个小窝逐渐丰满的样子，我会很高兴的。<br>这个博客主要用来记录我搭建这个博客，学习pr,ae做mad的一些小思路，还有就是CTF的学习</p>
+<p>如果我的过去不能给我充分的动力，那就从未来借一点期待吧！</p>
 ]]></content>
       <categories>
         <category>随笔</category>
@@ -31,6 +32,7 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="lang-bash">$ hexo deploy
 </code></pre>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<h2 id="Practice"><a href="#Practice" class="headerlink" title="Practice"></a>Practice</h2><p>这个博客是搭建时就默认生成的，以后会用来做一些写博客的小测试。</p>
 ]]></content>
       <categories>
         <category>测试</category>
