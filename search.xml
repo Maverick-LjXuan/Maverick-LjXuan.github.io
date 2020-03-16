@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo搭建Nexmoe主题博客  //更新日志</title>
+    <url>/2020/03/16/build-blog/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>分享一下自己用hexo搭建nexmoe主题博客的过程，以后还会不断地完善博客的功能，到时候也会记录下来</p>
+<p>挖坑待填</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Re:从零开始的生活</title>
     <url>/2020/03/15/my-first-blog/</url>
     <content><![CDATA[<h2 id="开博声明"><a href="#开博声明" class="headerlink" title="开博声明"></a>开博声明</h2><a id="more"></a>
