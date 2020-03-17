@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo搭建Nexmoe主题博客  //更新日志</title>
+    <title>Hexo搭建nexmoe主题博客  //更新日志</title>
     <url>/2020/03/16/build-blog/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>分享一下自己用hexo搭建nexmoe主题博客的过程，以后还会不断地完善博客的功能，到时候也会记录下来</p>
-<p>挖坑待填</p>
+    <content><![CDATA[<p>分享一下自己用hexo搭建nexmoe主题博客的过程<br>主要是写一些搭建过程中遇到的坑，因为网上都有详细的教程，自己也是看网上教程弄的，所以就不多赘述<br>以后还会不断地完善博客的功能，到时候也会记录下来,不定期更新<br><a id="more"></a></p>
+<h2 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h2><p>大概需要下面这些东西，先提及一下</p>
+<ol>
+<li>注册github账号</li>
+<li>Git for windows // 我的环境是windows</li>
+<li>安装 NodeJs</li>
+<li>安装hexo<br>……</li>
+</ol>
+<h2 id="Git-bash-安装"><a href="#Git-bash-安装" class="headerlink" title="Git bash 安装"></a>Git bash 安装</h2><p>从<a href="https://git-scm.com/" target="_blank" rel="noopener">Git官网</a>下载git bash<br>但是国内网站下载很慢，也可以用Pandownload下载<a href="https://pan.baidu.com/s/1ec_vWKM-WQg9d4HBlXlxlA" target="_blank" rel="noopener">百度网盘资源</a> //当前版本2.25<br>提取码<code>at9j</code>，当然如果你有vip就不用pandownload了<br>安装包一路’next’就好</p>
+<h2 id="NodeJs-安装"><a href="#NodeJs-安装" class="headerlink" title="NodeJs 安装"></a>NodeJs 安装</h2><p><a href="https://nodejs.org/en/" target="_blank" rel="noopener">下载地址</a> 选择LTS（长期稳定版）就ok<br>下载后之后安装包也是一路’next’，不过在CustomSetup这步要选择<code>Add to Path</code></p>
+<p>后续教程</p>
 ]]></content>
       <categories>
         <category>教程</category>
@@ -17,7 +26,14 @@
     <title>Re:从零开始的生活</title>
     <url>/2020/03/15/my-first-blog/</url>
     <content><![CDATA[<h2 id="开博声明"><a href="#开博声明" class="headerlink" title="开博声明"></a>开博声明</h2><a id="more"></a>
-<p>忙了半天总算是把博客简单地搭建起来了，比当时搞虚拟机还折腾。<br>一个人摸索好麻烦。虽然比较简陋，相信几年后就会逐渐丰富起来的。<br>从某种意义上来说，我的生活在两个月前便停滞了。家庭发生了剧变，在家人朋友面前我表现得都很正常，该打球打球，该吃饭吃饭，该学习学习…但我知道这才是不正常的。<br>这两个月里我逐渐想起了许多被扔在角落的事情还有诸多我之前埋下的伏笔，原来这些事情不是忘记了，而是一时想不起来了……<br>……总之，颓废了两个月（或者说半年？），开始害怕变得越来越普通的自己，我想找一个可以督促自己的方式。正好有人给我介绍了下hexo，我想着搭一个自己的博客，记录自己接下来的学习与生活。我讨厌大学毕业前看到这篇博客凄惨荒废的模样，想想三年后或者变为社畜前，看到这个小窝逐渐丰满的样子，我会很高兴的。<br>这个博客主要用来记录我搭建这个博客，学习pr,ae做mad的一些小思路，还有就是CTF的学习</p>
+<p>忙了半天总算是把博客简单地搭建起来了，比当时搞虚拟机还折腾。</p>
+<p>一个人摸索好麻烦。虽然比较简陋，相信几年后就会逐渐丰富起来的。</p>
+<p>从某种意义上来说，我的生活在两个月前便停滞了。家庭发生了剧变，在家人朋友面前我表现得都很正常，该打球打球，该吃饭吃饭，该学习学习…但我想这才是不正常的。</p>
+<p>这两个月里我逐渐想起了许多被扔在角落的事情还有诸多我之前埋下的伏笔，原来这些事情不是忘记了，而是一时想不起来了……</p>
+<p>……总之，颓废了两个月（或者说半年？），开始害怕变得越来越普通的自己，我想找一个可以督促自己的方式。</p>
+<p>正好有人给我介绍了下hexo，我想着搭一个自己的博客，记录自己接下来的学习与生活。</p>
+<p>我讨厌大学毕业前看到这篇博客凄惨荒废的模样，想想三年后或者变为社畜前，看到这个小窝逐渐丰满的样子，我会很高兴的。</p>
+<p>这个博客主要用来记录我搭建这个博客，学习pr,ae做mad的一些小思路，还有就是CTF的学习</p>
 <p>如果我的过去不能给我充分的动力，那就从未来借一点期待吧！</p>
 ]]></content>
       <categories>
