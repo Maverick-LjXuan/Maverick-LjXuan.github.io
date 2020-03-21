@@ -20,13 +20,13 @@
 <meta property="og:description" content="分享一下自己用hexo搭建nexmoe主题博客的过程主要是写一些搭建过程中遇到的坑，因为网上都有详细的教程，自己也是看网上教程弄的，所以就不多赘述以后还会不断地完善博客的功能，到时候也会记录下来,不定期更新">
 <meta property="og:locale" content="zn_CH">
 <meta property="article:published_time" content="2020-03-16T00:38:45.000Z">
-<meta property="article:modified_time" content="2020-03-17T04:37:23.802Z">
+<meta property="article:modified_time" content="2020-03-21T10:55:07.131Z">
 <meta property="article:author" content="Ljxuan">
 <meta property="article:tag" content="Hexo">
 <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/gh/nexmoe/nexmoe.github.io@latest/css/style.css,npm/highlight.js@9.15.8/styles/atom-one-dark.css,gh/nexmoe/nexmoe.github.io@latest/lib/mdui_043tiny/css/mdui.css,gh/nexmoe/nexmoe.github.io@latest/lib/iconfont/iconfont.css" crossorigin>
   
-  <!--<link rel="stylesheet" href="/css/style.css?v=1584420041534">-->
+  <!--<link rel="stylesheet" href="/css/style.css?v=1584788171725">-->
 
   
 <meta name="generator" content="Hexo 4.2.0"></head>
@@ -189,7 +189,7 @@
   
   <div class="nexmoe-post-meta" style="margin:10px 0!important;">
     <a><i class="nexmoefont icon-calendar-fill"></i>2020年03月16日</a>
-    <a><i class="nexmoefont icon-areachart"></i>235 字</a>
+    <a><i class="nexmoefont icon-areachart"></i>254 字</a>
     <a><i class="nexmoefont icon-time-circle-fill"></i>大概 1 分钟</a>
 </div>
 
@@ -214,9 +214,10 @@
 <li>安装 NodeJs</li>
 <li>安装hexo<br>……</li>
 </ol>
-<h2 id="Git-bash-安装"><a href="#Git-bash-安装" class="headerlink" title="Git bash 安装"></a>Git bash 安装</h2><p>从<a href="https://git-scm.com/" target="_blank" rel="noopener">Git官网</a>下载git bash<br>但是国内网站下载很慢，也可以用Pandownload下载<a href="https://pan.baidu.com/s/1ec_vWKM-WQg9d4HBlXlxlA" target="_blank" rel="noopener">百度网盘资源</a> //当前版本2.25<br>提取码<code>at9j</code>，当然如果你有vip就不用pandownload了<br>安装包一路’next’就好</p>
-<h2 id="NodeJs-安装"><a href="#NodeJs-安装" class="headerlink" title="NodeJs 安装"></a>NodeJs 安装</h2><p><a href="https://nodejs.org/en/" target="_blank" rel="noopener">下载地址</a> 选择LTS（长期稳定版）就ok<br>下载后之后安装包也是一路’next’，不过在CustomSetup这步要选择<code>Add to Path</code></p>
-<p>后续教程</p>
+<h2 id="Git-bash-安装"><a href="#Git-bash-安装" class="headerlink" title="Git bash 安装"></a>Git bash 安装</h2><p>从<a href="https://git-scm.com/" target="_blank" rel="noopener">Git官网</a>下载git bash<br>但是国内网站下载很慢，也可以用Pandownload下载<a href="https://pan.baidu.com/s/1ec_vWKM-WQg9d4HBlXlxlA" target="_blank" rel="noopener">百度网盘资源</a> //当前版本2.25<br>提取码 <code>at9j</code>，当然如果你有vip就不用pandownload了<br>安装包一路’next’就好</p>
+<p>装好之后可以直接在文件夹右键’Git Bash Here’</p>
+<h2 id="NodeJs-安装"><a href="#NodeJs-安装" class="headerlink" title="NodeJs 安装"></a>NodeJs 安装</h2><p><a href="https://nodejs.org/en/" target="_blank" rel="noopener">下载地址</a> 选择LTS（长期稳定版）就ok<br>下载后之后安装包也是一路’next’，不过在 CustomSetup 这步要选择 <code>Add to Path</code></p>
+<p><a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html#%E6%B5%8B%E8%AF%95%E6%98%AF%E5%90%A6%E6%88%90%E5%8A%9F" target="_blank" rel="noopener">后续教程</a></p>
 
   </article>
 
@@ -264,7 +265,7 @@
   </div>
   <script src="https://cdn.jsdelivr.net/combine/npm/lazysizes@5.1.0/lazysizes.min.js,gh/highlightjs/cdn-release@9.15.8/build/highlight.min.js,npm/mdui@0.4.3/dist/js/mdui.min.js,gh/nexmoe/nexmoe.github.io@latest/js/app.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
-<!--<script src="/js/app.js?v=1584420041544"></script>-->
+<!--<script src="/js/app.js?v=1584788171737"></script>-->
 
 
     <script src="https://cdn.jsdelivr.net/gh/xtaodada/xtaodada.github.io@0.0.2/copy.js"></script>
@@ -277,6 +278,21 @@
 
 
 
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 </body>
 
 </html>

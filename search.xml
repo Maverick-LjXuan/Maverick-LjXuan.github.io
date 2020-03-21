@@ -11,9 +11,10 @@
 <li>安装 NodeJs</li>
 <li>安装hexo<br>……</li>
 </ol>
-<h2 id="Git-bash-安装"><a href="#Git-bash-安装" class="headerlink" title="Git bash 安装"></a>Git bash 安装</h2><p>从<a href="https://git-scm.com/" target="_blank" rel="noopener">Git官网</a>下载git bash<br>但是国内网站下载很慢，也可以用Pandownload下载<a href="https://pan.baidu.com/s/1ec_vWKM-WQg9d4HBlXlxlA" target="_blank" rel="noopener">百度网盘资源</a> //当前版本2.25<br>提取码<code>at9j</code>，当然如果你有vip就不用pandownload了<br>安装包一路’next’就好</p>
-<h2 id="NodeJs-安装"><a href="#NodeJs-安装" class="headerlink" title="NodeJs 安装"></a>NodeJs 安装</h2><p><a href="https://nodejs.org/en/" target="_blank" rel="noopener">下载地址</a> 选择LTS（长期稳定版）就ok<br>下载后之后安装包也是一路’next’，不过在CustomSetup这步要选择<code>Add to Path</code></p>
-<p>后续教程</p>
+<h2 id="Git-bash-安装"><a href="#Git-bash-安装" class="headerlink" title="Git bash 安装"></a>Git bash 安装</h2><p>从<a href="https://git-scm.com/" target="_blank" rel="noopener">Git官网</a>下载git bash<br>但是国内网站下载很慢，也可以用Pandownload下载<a href="https://pan.baidu.com/s/1ec_vWKM-WQg9d4HBlXlxlA" target="_blank" rel="noopener">百度网盘资源</a> //当前版本2.25<br>提取码 <code>at9j</code>，当然如果你有vip就不用pandownload了<br>安装包一路’next’就好</p>
+<p>装好之后可以直接在文件夹右键’Git Bash Here’</p>
+<h2 id="NodeJs-安装"><a href="#NodeJs-安装" class="headerlink" title="NodeJs 安装"></a>NodeJs 安装</h2><p><a href="https://nodejs.org/en/" target="_blank" rel="noopener">下载地址</a> 选择LTS（长期稳定版）就ok<br>下载后之后安装包也是一路’next’，不过在 CustomSetup 这步要选择 <code>Add to Path</code></p>
+<p><a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html#%E6%B5%8B%E8%AF%95%E6%98%AF%E5%90%A6%E6%88%90%E5%8A%9F" target="_blank" rel="noopener">后续教程</a></p>
 ]]></content>
       <categories>
         <category>教程</category>
