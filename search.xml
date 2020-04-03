@@ -4,11 +4,11 @@
     <title>明日方舟系列</title>
     <url>/2020/04/03/avator/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="分享好看的头像"><a href="#分享好看的头像" class="headerlink" title="分享好看的头像"></a>分享好看的头像</h2><a id="more"></a>
-
-    <div id="aplayer-PYulHeKD" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="1436614177" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"
-    ></div>
 <p>本文仅尝试博文添加图片(x)<br><del>夹带私货</del></p>
+
+    <div id="aplayer-aoxtnYHu" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="1436614177" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
+    ></div>
 <p>头像系列作者 <a href="https://space.bilibili.com/1373037/" target="_blank" rel="noopener">QuAn___</a></p>
 <div class="table-container">
 <table>
@@ -44,7 +44,7 @@
   <entry>
     <title>Hexo搭建nexmoe主题博客  //更新日志</title>
     <url>/2020/03/16/build-blog/</url>
-    <content><![CDATA[<p>分享一下自己用hexo搭建nexmoe主题博客的过程<br>主要是写一些搭建过程中遇到的坑，因为网上都有详细的教程，自己也是看网上教程弄的，所以就不多赘述<br>以后还会不断地完善博客的功能，到时候也会记录下来,不定期更新<br><a id="more"></a></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>分享一下自己用hexo搭建nexmoe主题博客的过程<br>主要是写一些搭建过程中遇到的坑，因为网上都有详细的教程，自己也是看网上教程弄的，所以就不多赘述<br>以后还会不断地完善博客的功能，到时候也会记录下来,不定期更新<br><a id="more"></a></p>
 <h2 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h2><p>大概需要下面这些东西，先提及一下</p>
 <ol>
 <li>注册github账号</li>
@@ -57,7 +57,8 @@
 <h2 id="NodeJs-安装"><a href="#NodeJs-安装" class="headerlink" title="NodeJs 安装"></a>NodeJs 安装</h2><p><a href="https://nodejs.org/en/" target="_blank" rel="noopener">下载地址</a> 选择LTS（长期稳定版）就ok<br>下载后之后安装包也是一路’next’，不过在 CustomSetup 这步要选择 <code>Add to Path</code></p>
 <p><a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html#%E6%B5%8B%E8%AF%95%E6%98%AF%E5%90%A6%E6%88%90%E5%8A%9F" target="_blank" rel="noopener">后续教程</a></p>
 <h2 id="关于图床"><a href="#关于图床" class="headerlink" title="关于图床"></a>关于图床</h2><p>建议使用<a href="https://www.qiniu.com/products/kodo" target="_blank" rel="noopener">七牛云</a><br>实名注册，添加对象存储<br>上传图片就可以使用图片的链接而且不会挂了</p>
-<h2 id="后续更新"><a href="#后续更新" class="headerlink" title="后续更新"></a>后续更新</h2>]]></content>
+<h2 id="后续更新"><a href="#后续更新" class="headerlink" title="后续更新"></a>后续更新</h2><p>2020-04-03  为博文添加了音乐播放器    <a href="https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md" target="_blank" rel="noopener">相关教程</a></p>
+]]></content>
       <categories>
         <category>教程</category>
       </categories>
