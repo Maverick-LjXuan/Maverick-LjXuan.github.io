@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>明日方舟系列</title>
+    <url>/2020/04/03/avator/</url>
+    <content><![CDATA[<h2 id="分享好看的头像"><a href="#分享好看的头像" class="headerlink" title="分享好看的头像"></a>分享好看的头像</h2><a id="more"></a>
+<p>本文仅尝试博文添加图片(x)<br>夹带私货</p>
+<p>头像系列作者 <a href="https://space.bilibili.com/1373037/" target="_blank" rel="noopener">QuAn___</a></p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th><img src="http://q7aou6r3j.bkt.clouddn.com/%E5%82%BB%E7%8B%97.jpg?e=1585889049&amp;token=LTKyAzFvuR90CkRDlWqUPiDzZG48FgfTuL7S58xH:F3AGRlEmXd3BFZ5d9cKTKODb2qU=" alt="傻狗"></th>
+<th><img src="http://q7aou6r3j.bkt.clouddn.com/%E6%8B%89%E7%8B%97.jpg?e=1585889064&amp;token=LTKyAzFvuR90CkRDlWqUPiDzZG48FgfTuL7S58xH:QXoSPliDOQdDJZ-_F6146iUNpsU=" alt="拉狗"></th>
+<th><img src="http://q7aou6r3j.bkt.clouddn.com/%E5%BE%B7%E7%8B%97.jpg?e=1585889073&amp;token=LTKyAzFvuR90CkRDlWqUPiDzZG48FgfTuL7S58xH:GzB78xyGivyOvKfmMasWHPvbc0s=" alt="德狗"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="http://q7aou6r3j.bkt.clouddn.com/%E9%97%AA%E7%81%B5.jpg?e=1585888990&amp;token=LTKyAzFvuR90CkRDlWqUPiDzZG48FgfTuL7S58xH:JJ5KkGC_scq2Vrz9bD51sfpbmKk=" alt="闪灵"></td>
+<td><img src="http://q7aou6r3j.bkt.clouddn.com/%E8%93%9D%E6%AF%92.jpg?e=1585889017&amp;token=LTKyAzFvuR90CkRDlWqUPiDzZG48FgfTuL7S58xH:cdyX6LIlsEiLSt6evTLPhK7dn4M=" alt="蓝毒"></td>
+<td><img src="http://q7aou6r3j.bkt.clouddn.com/red.jpg?e=1585889033&amp;token=LTKyAzFvuR90CkRDlWqUPiDzZG48FgfTuL7S58xH:xuNuXV8p9GL9SQygtZOzAqNHORo=" alt="红"></td>
+</tr>
+<tr>
+<td><img src="http://q7aou6r3j.bkt.clouddn.com/%E7%85%8C.jpg?e=1585889083&amp;token=LTKyAzFvuR90CkRDlWqUPiDzZG48FgfTuL7S58xH:2lLY6t4ghzpE2ZsZpppEx1FyRTo=" alt="煌"></td>
+<td><img src="http://q7aou6r3j.bkt.clouddn.com/%E8%92%82%E8%92%82.jpg?e=1585889121&amp;token=LTKyAzFvuR90CkRDlWqUPiDzZG48FgfTuL7S58xH:mKp3cJWfJwvq5Il5d04Ac-GdJMk=" alt="蒂蒂"></td>
+<td><img src="http://q7aou6r3j.bkt.clouddn.com/sora.jpg?e=1585889133&amp;token=LTKyAzFvuR90CkRDlWqUPiDzZG48FgfTuL7S58xH:_zVqGZfvQhdMMkp8IEJdYtDFJDU=" alt="空"></td>
+</tr>
+</tbody>
+</table>
+</div>
+]]></content>
+      <categories>
+        <category>图册</category>
+      </categories>
+      <tags>
+        <tag>明日方舟</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo搭建nexmoe主题博客  //更新日志</title>
     <url>/2020/03/16/build-blog/</url>
     <content><![CDATA[<p>分享一下自己用hexo搭建nexmoe主题博客的过程<br>主要是写一些搭建过程中遇到的坑，因为网上都有详细的教程，自己也是看网上教程弄的，所以就不多赘述<br>以后还会不断地完善博客的功能，到时候也会记录下来,不定期更新<br><a id="more"></a></p>
@@ -16,7 +53,7 @@
 <h2 id="NodeJs-安装"><a href="#NodeJs-安装" class="headerlink" title="NodeJs 安装"></a>NodeJs 安装</h2><p><a href="https://nodejs.org/en/" target="_blank" rel="noopener">下载地址</a> 选择LTS（长期稳定版）就ok<br>下载后之后安装包也是一路’next’，不过在 CustomSetup 这步要选择 <code>Add to Path</code></p>
 <p><a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html#%E6%B5%8B%E8%AF%95%E6%98%AF%E5%90%A6%E6%88%90%E5%8A%9F" target="_blank" rel="noopener">后续教程</a></p>
 <h2 id="关于图床"><a href="#关于图床" class="headerlink" title="关于图床"></a>关于图床</h2><p>建议使用<a href="https://www.qiniu.com/products/kodo" target="_blank" rel="noopener">七牛云</a><br>实名注册，添加对象存储<br>上传图片就可以使用图片的链接而且不会挂了</p>
-]]></content>
+<h2 id="后续更新"><a href="#后续更新" class="headerlink" title="后续更新"></a>后续更新</h2>]]></content>
       <categories>
         <category>教程</category>
       </categories>
