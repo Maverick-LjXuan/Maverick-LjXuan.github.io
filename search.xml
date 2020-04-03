@@ -15,6 +15,7 @@
 <p>装好之后可以直接在文件夹右键’Git Bash Here’</p>
 <h2 id="NodeJs-安装"><a href="#NodeJs-安装" class="headerlink" title="NodeJs 安装"></a>NodeJs 安装</h2><p><a href="https://nodejs.org/en/" target="_blank" rel="noopener">下载地址</a> 选择LTS（长期稳定版）就ok<br>下载后之后安装包也是一路’next’，不过在 CustomSetup 这步要选择 <code>Add to Path</code></p>
 <p><a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html#%E6%B5%8B%E8%AF%95%E6%98%AF%E5%90%A6%E6%88%90%E5%8A%9F" target="_blank" rel="noopener">后续教程</a></p>
+<h2 id="关于图床"><a href="#关于图床" class="headerlink" title="关于图床"></a>关于图床</h2><p>建议使用<a href="https://www.qiniu.com/products/kodo" target="_blank" rel="noopener">七牛云</a><br>实名注册，添加对象存储<br>上传图片就可以使用图片的链接而且不会挂了</p>
 ]]></content>
       <categories>
         <category>教程</category>
