@@ -59,7 +59,7 @@
 <h2 id="关于图床"><a href="#关于图床" class="headerlink" title="关于图床"></a>关于图床</h2><p>建议使用<a href="https://www.qiniu.com/products/kodo" target="_blank" rel="noopener">七牛云</a><br>实名注册，添加对象存储<br>上传图片就可以使用图片的链接而且不会挂了</p>
 <h2 id="后续更新"><a href="#后续更新" class="headerlink" title="后续更新"></a>后续更新</h2><h3 id="2020-04-03"><a href="#2020-04-03" class="headerlink" title="2020-04-03"></a>2020-04-03</h3><ol>
 <li>使用了hexo admin更新博客      <a href="https://segmentfault.com/a/1190000018488921" target="_blank" rel="noopener">相关教程</a></li>
-<li>为<a href="https://maverick-ljxuan.github.io/2020/04/03/avator/">博文</a>添加了音乐播放器    <a href="https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md" target="_blank" rel="noopener">相关教程</a></li>
+<li>为<a href="https://maverick-ljxuan.github.io/2020/04/03/avator/">博文</a>添加了音乐播放器    <a href="https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md" target="_blank" rel="noopener">相关教程</a>      //尚未解决移动端失效的问题  <del>lazy的我也不想解决</del></li>
 </ol>
 <h3 id="2020-04-11"><a href="#2020-04-11" class="headerlink" title="2020-04-11"></a>2020-04-11</h3><ol>
 <li>更新主题到最近版本，添加了标签样式</li>
