@@ -57,7 +57,7 @@
 <h2 id="NodeJs-安装"><a href="#NodeJs-安装" class="headerlink" title="NodeJs 安装"></a>NodeJs 安装</h2><p><a href="https://nodejs.org/en/" target="_blank" rel="noopener">下载地址</a> 选择LTS（长期稳定版）就ok<br>下载后之后安装包也是一路’next’，不过在 CustomSetup 这步要选择 <code>Add to Path</code></p>
 <p><a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html#%E6%B5%8B%E8%AF%95%E6%98%AF%E5%90%A6%E6%88%90%E5%8A%9F" target="_blank" rel="noopener">后续教程</a></p>
 <h2 id="关于图床"><a href="#关于图床" class="headerlink" title="关于图床"></a>关于图床</h2><p>建议使用<a href="https://www.qiniu.com/products/kodo" target="_blank" rel="noopener">七牛云</a><br>实名注册，添加对象存储<br>上传图片就可以使用图片的链接而且不会挂了</p>
-<p>如果你没有自己的域名还请暂时无视上面的推荐<br>因为七牛云的存储空间的域名是临时的，需要绑定自己的域名<br>本人的图床再一次挂了  Orz…</p>
+<p>如果你没有自己的域名还请暂时无视上面的推荐<br>因为七牛云的存储空间的域名是临时的，需要绑定自己的域名<br><del>气死我了</del>本人的图床再一次挂了  Orz…</p>
 <p>直接贴个论坛的图床推荐吧   <a href="https://www.fffdann.com/showthread.php?tid=1" target="_blank" rel="noopener">点击这里</a><br>顺带推广一下这个论坛有挺多好东西的</p>
 <h2 id="后续更新"><a href="#后续更新" class="headerlink" title="后续更新"></a>后续更新</h2><h3 id="2020-04-03"><a href="#2020-04-03" class="headerlink" title="2020-04-03"></a>2020-04-03</h3><ol>
 <li>使用了hexo admin更新博客      <a href="https://segmentfault.com/a/1190000018488921" target="_blank" rel="noopener">相关教程</a></li>
@@ -66,6 +66,9 @@
 <h3 id="2020-04-11"><a href="#2020-04-11" class="headerlink" title="2020-04-11"></a>2020-04-11</h3><ol>
 <li>更新主题到最近版本，添加了标签样式</li>
 <li>由于底图过大，导致加载过慢，于是更换了底图 <del>长门大萌神</del>=w=</li>
+</ol>
+<h3 id="2020-04-16"><a href="#2020-04-16" class="headerlink" title="2020-04-16"></a>2020-04-16</h3><ol>
+<li>图床挂了花了一个上午紧急修复了一下</li>
 </ol>
 ]]></content>
       <categories>
